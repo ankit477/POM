@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.crm.qa.pages.Login"/>
+<fullyQualifiedTypeName name="com.crm.qa.pages.homepage"/>
+<fullyQualifiedTypeName name="com.crm.qa.util.TestUtil"/>
+<fullyQualifiedTypeName name="com.crm.qa.pages.contactpage"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.events.EventFiringWebDriver"/>
+<fullyQualifiedTypeName name="com.crm.qa.util.WebEventListner"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.OutputType"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.events.WebDriverEventListener"/>
+<fullyQualifiedTypeName name="com.crm.qa.base.Testbase"/>
+</qualifiedTypeNameHistroy>
